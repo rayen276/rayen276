@@ -43,5 +43,5 @@ Je cherche un PFE de 4 à 6 mois pour appliquer mes compétences en développeme
 
 ## 📫 Me contacter
 
-- LinkedIn : [mon profil](https://www.linkedin.com/in/TODO-votre-identifiant) <!-- TODO : mettre votre lien LinkedIn -->
+- LinkedIn : [mon profil](linkedin.com/in/rayen-maatoug-a781b7321) <!-- TODO : mettre votre lien LinkedIn -->
 - E-mail : rayen.maatoug@ensi-uma.tn
