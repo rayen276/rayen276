@@ -23,7 +23,6 @@ Je cherche un PFE de 4 à 6 mois pour appliquer mes compétences en développeme
 | Projet | Ce que ça fait | Technologies |
 |---|---|---|
 | **[Agent IA de Recrutement](https://github.com/rayen276/agent-recrutement)** | Analyse un CV face à une offre, rédige la lettre de motivation, cherche des offres, prépare l'entretien et l'e-mail de candidature. Sorties structurées, protection contre l'injection de prompt, tests unitaires, interfaces Web et CLI | Python, API Groq, Pydantic, Streamlit, Docker, Pytest |
-| 
 | **Analyse prédictive de la dette technique** <!-- TODO : ajouter le lien du dépôt --> | Analyse automatisée de dépôts GitHub via SonarQube, dashboard interactif et modèle LightGBM (94 % de précision) qui prédit l'évolution de la dette | FastAPI, React, SonarQube, LightGBM, Scikit-Learn, Docker |
 | **WaterToken** (hackathon AI & Blockchain) <!-- TODO : ajouter le lien du dépôt --> | Tokenisation de l'économie d'eau agricole et assistant WaterGPT (RAG) avec échanges P2P entre agriculteurs | FastAPI, React, API Groq, FAISS |
 | **Détection de maladies de plantes** <!-- TODO : ajouter le lien du dépôt --> | CNN et MobileNetV2 sur 38 classes (87 000 images) : 98,7 % de précision, F1 macro 0,986 ; interprétabilité Grad-CAM, application web de diagnostic | TensorFlow/Keras, Gradio, Docker |
